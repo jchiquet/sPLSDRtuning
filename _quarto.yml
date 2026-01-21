@@ -1,6 +1,6 @@
 project:
   render:
-    - template-computo-R.qmd
+    - submitted-202601-splsrtuning.qmd
 title: "Challenging estimation of tuning parameters in sPLSDR model to predict the incidence of rare diseases"
 date: 2025-10-07
 date-modified: last-modified

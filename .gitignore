@@ -30,15 +30,11 @@ logo_text_white.pdf
 logo_notext_white.png
 
 # Quarto output files
-template-computo-R.html
-template-computo-R.pdf
-template-computo-python.html
-template-computo-python.pdf
-template-computo-python.ipynb
-template-computo-python.tex
-template-computo-julia.html
-template-computo-julia.pdf
-template-computo-julia.tex
+submitted-202601-splsrtuning.html
+submitted-202601-splsrtuning.pdf
+submitted-202601-splsrtuning.ipynb
+submitted-202601-splsrtuning.tex
+submitted-202601-splsrtuning.tex
 
 # Latex compilation files
 *.aux
@@ -48,4 +44,6 @@ template-computo-julia.tex
 # Various system files
 DS_Store
 /.luarc.json
+.vscode/
 
+**/*.quarto_ipynb
